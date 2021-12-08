@@ -14,7 +14,10 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: white;
   }
-
+a{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: white;
+}
 .square{
   height: 180;
   width: 800;
