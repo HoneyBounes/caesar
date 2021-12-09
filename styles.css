@@ -20,7 +20,12 @@ a{
   font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: white;
   font-size: 20px;
+  text-decoration: none;
 }
+a:hover {
+  color: lightgray;
+}
+
 .square{
   height: 180;
   width: 800;
